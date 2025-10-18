@@ -6,8 +6,8 @@ body{
 .body{
     background-color: rgba(84, 83, 83, 0.634);
     display: flex;
-    justify-content:start;
-    align-items: start;
+    justify-content:center;
+    align-items: center;
     width: 400px;
     height: 400px;
     position:relative;
