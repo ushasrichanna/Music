@@ -8,29 +8,30 @@ body{
     display: flex;
     justify-content:start;
     align-items: start;
-    height: 600px;
+    width: 400px;
+    height: 400px;
     position:relative;
     padding-right: 10px;
 }
 .container{
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 180px;
     background-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 2px;
-    margin:100px 0px 0px 40px;
+    margin:50px 0px 0px 10px;
     border-radius: 30px;
    
 }
 .text1{
-    margin:130px 0px 0px 15px;
-    font-size: 40px;
+    margin:70px 0px 0px 15px;
+    font-size: 22px;
     color: white;
 }
 .text2{
-    font-size: 20px;
+    font-size: 15px;
     margin-left: 20px;
     color: white;
 }
@@ -189,7 +190,7 @@ body{
 .icon{
     position: absolute;
     bottom: 30px;
-    left: 50px;
+    left: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
