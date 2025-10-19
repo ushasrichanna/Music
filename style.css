@@ -32,8 +32,13 @@ body{
 }
 .text2{
     font-size: 15px;
-    margin-left: 20px;
+    margin-left: 18px;
     color: white;
+}
+audio{
+    width: 180px;
+    height: 40px;
+    margin-left: 5px;
 }
 .child1{
     width: 5px;
